@@ -1,0 +1,19 @@
+Employee Details
+
+Employee Name: Rahul Sharma
+Employee ID: EMP101
+Department: Software Development
+Designation: Python Developer
+Experience: 3 Years
+
+Employee Name: Priya Reddy
+Employee ID: EMP102
+Department: Human Resources
+Designation: HR Manager
+Experience: 5 Years
+
+Employee Name: Arun Kumar
+Employee ID: EMP103
+Department: Finance
+Designation: Financial Analyst
+Experience: 4 Years

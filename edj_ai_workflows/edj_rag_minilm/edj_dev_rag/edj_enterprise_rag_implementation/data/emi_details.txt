@@ -1,0 +1,17 @@
+Loan Details
+
+Customer Name: Rahul Sharma
+
+Loan Amount: ₹500000
+
+EMI: ₹10000
+
+Interest Rate: 8%
+
+Loan Duration: 5 Years
+
+Loan Type:
+Home Loan
+
+Penalty:
+Late payment attracts a penalty of ₹500.
